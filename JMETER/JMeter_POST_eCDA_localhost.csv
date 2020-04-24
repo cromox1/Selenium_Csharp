@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1550695283112,1203,HTTP Request,404,Not Found,Thread Group 1-1,text,false,,3213,254,1,1,https://cromoxgmx.emcecda.com/user-login,1200,0,1070

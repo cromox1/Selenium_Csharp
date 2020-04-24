@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1550689963625,1573,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,1301,0,1159
+1550689963625,1301,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,1301,0,1159
+1550689964928,270,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,138,0,0
+1550689965204,781,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,527,0,403
+1550689965204,527,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,527,0,403
+1550689965731,254,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550689965986,783,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,395
+1550689965986,519,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,395
+1550689966506,263,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,131,0,0
+1550689966770,774,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,394
+1550689966770,519,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,394
+1550689967289,255,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550689967545,838,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,566,0,441
+1550689967545,566,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,566,0,441
+1550689968112,271,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689968384,788,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,520,0,396
+1550689968384,521,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,520,0,396
+1550689968905,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689969174,786,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,394
+1550689969174,519,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,394
+1550689969693,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689969961,780,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,521,0,396
+1550689969961,521,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,521,0,396
+1550689970482,259,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689970742,770,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,392
+1550689970742,517,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,392
+1550689971259,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550689971513,768,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,390
+1550689971513,515,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,390
+1550689972028,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550689972283,787,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,520,0,395
+1550689972283,520,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,520,0,395
+1550689972803,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689973071,783,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,394
+1550689973071,519,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,394
+1550689973591,263,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,131,0,0
+1550689973855,778,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,390
+1550689973855,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,390
+1550689974371,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,132,0,0
+1550689974634,779,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,387
+1550689974634,512,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,387
+1550689975146,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689975415,804,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,536,0,412
+1550689975415,536,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,536,0,412
+1550689975952,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689976220,792,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,524,0,399
+1550689976220,524,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,524,0,399
+1550689976744,268,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689977013,791,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,522,0,396
+1550689977013,522,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,522,0,396
+1550689977535,269,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689977805,781,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,392
+1550689977805,517,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,392
+1550689978322,264,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,133,0,0
+1550689978587,777,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,390
+1550689978587,515,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,390
+1550689979102,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,132,0,0
+1550689979365,768,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,391
+1550689979365,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,391
+1550689979881,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689980137,837,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,569,0,446
+1550689980137,569,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,569,0,446
+1550689980707,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689980975,762,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,511,0,388
+1550689980975,511,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,511,0,388
+1550689981487,250,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550689981739,766,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,389
+1550689981739,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,389
+1550689982253,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550689982506,762,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,387
+1550689982506,512,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,387
+1550689983018,250,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550689983269,789,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,520,0,395
+1550689983269,520,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,520,0,395
+1550689983790,268,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689984059,769,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550689984059,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550689984575,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689984829,774,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,523,0,399
+1550689984829,523,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,523,0,399
+1550689985352,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689985605,766,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,390
+1550689985605,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,390
+1550689986120,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689986373,789,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,521,0,396
+1550689986373,521,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,521,0,396
+1550689986894,268,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550689987163,778,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,391
+1550689987163,515,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,391
+1550689987679,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,131,0,0
+1550689987942,779,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,393
+1550689987942,517,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,393
+1550689988459,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,131,0,0
+1550689988722,779,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,392
+1550689988722,518,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,392
+1550689989240,261,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550689989503,787,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,521,0,396
+1550689989503,521,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,521,0,396
+1550689990024,266,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,133,0,0
+1550689990291,894,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,393
+1550689990291,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,393
+1550689990808,377,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,224,0,0
+1550689991186,782,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,529,0,405
+1550689991186,530,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,529,0,405
+1550689991716,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689991969,769,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550689991969,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550689992485,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689992739,767,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550689992739,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550689993253,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550689993507,789,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,522,0,397
+1550689993507,522,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,522,0,397
+1550689994029,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,133,0,0
+1550689994298,763,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,388
+1550689994298,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,388
+1550689994811,250,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550689995062,766,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,390
+1550689995062,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,390
+1550689995577,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550689995829,771,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,518,0,392
+1550689995829,518,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,518,0,392
+1550689996347,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689996601,828,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,391
+1550689996601,515,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,391
+1550689997117,312,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550689997430,768,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,392
+1550689997430,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,392
+1550689997946,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550689998199,967,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,711,0,506
+1550689998199,711,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,711,0,506
+1550689998911,255,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,129,0,0
+1550689999167,1177,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,915,0,791
+1550689999167,915,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,915,0,791
+1550690000083,261,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690000345,796,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,543,0,410
+1550690000345,543,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,543,0,410
+1550690000888,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690001142,790,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,539,0,415
+1550690001142,539,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,539,0,415
+1550690001682,250,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690001933,770,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,392
+1550690001933,517,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,392
+1550690002450,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690002704,834,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,565,0,441
+1550690002704,566,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,565,0,441
+1550690003270,268,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550690003539,794,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,524,0,398
+1550690003539,524,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,524,0,398
+1550690004063,270,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,135,0,0
+1550690004334,787,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,527,0,404
+1550690004334,527,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,527,0,404
+1550690004861,260,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690005122,776,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,390
+1550690005122,515,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,390
+1550690005638,260,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690005899,765,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,387
+1550690005899,512,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,387
+1550690006412,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690006665,778,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,388
+1550690006665,512,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,388
+1550690007177,266,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550690007444,766,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550690007444,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550690007958,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690008211,762,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,511,0,387
+1550690008211,511,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,511,0,387
+1550690008723,250,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690008974,786,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,395
+1550690008974,520,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,395
+1550690009494,266,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,133,0,0
+1550690009761,772,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,389
+1550690009761,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,389
+1550690010274,259,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,129,0,0
+1550690010535,768,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,390
+1550690010535,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,390
+1550690011049,254,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690011304,765,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550690011304,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550690011818,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690012070,764,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,389
+1550690012070,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,389
+1550690012583,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690012835,791,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,524,0,394
+1550690012835,524,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,524,0,394
+1550690013359,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,133,0,0
+1550690013627,802,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,521,0,394
+1550690013627,521,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,521,0,394
+1550690014148,281,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690014430,831,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,533,0,401
+1550690014430,534,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,533,0,401
+1550690014964,297,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,146,0,0
+1550690015262,764,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,388
+1550690015262,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,388
+1550690015775,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690016027,869,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,617,0,492
+1550690016027,617,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,617,0,492
+1550690016644,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690016897,941,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,669,0,513
+1550690016897,669,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,669,0,513
+1550690017566,272,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,136,0,0
+1550690017839,806,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,536,0,411
+1550690017839,536,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,536,0,411
+1550690018375,270,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,136,0,0
+1550690018646,786,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,518,0,393
+1550690018646,518,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,518,0,393
+1550690019165,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550690019433,779,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550690019433,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550690019949,263,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,132,0,0
+1550690020213,774,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,389
+1550690020213,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,389
+1550690020727,260,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690020988,779,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,525,0,401
+1550690020988,526,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,525,0,401
+1550690021514,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690021768,770,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550690021768,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550690022285,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690022539,939,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,668,0,509
+1550690022539,668,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,668,0,509
+1550690023207,271,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,142,0,0
+1550690023479,786,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,518,0,393
+1550690023479,518,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,518,0,393
+1550690023998,267,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550690024266,768,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550690024266,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550690024781,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690025035,874,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,621,0,496
+1550690025035,621,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,621,0,496
+1550690025656,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690025910,762,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,510,0,387
+1550690025910,510,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,510,0,387
+1550690026421,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690026673,774,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550690026673,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550690027187,260,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690027448,777,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,390
+1550690027448,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,390
+1550690027963,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690028226,870,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,577,0,440
+1550690028226,577,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,577,0,440
+1550690028804,292,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,168,0,0
+1550690029098,770,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550690029098,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550690029614,254,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690029869,764,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,513,0,389
+1550690029869,513,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,513,0,389
+1550690030382,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690030634,766,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550690030634,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550690031148,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690031401,767,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550690031401,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550690031917,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690032169,771,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,393
+1550690032169,518,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,393
+1550690032687,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690032941,762,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,511,0,388
+1550690032941,511,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,511,0,388
+1550690033453,250,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0
+1550690033703,770,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550690033703,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550690034219,254,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690034474,763,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,388
+1550690034474,512,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,388
+1550690034986,251,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690035238,770,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,508,0,384
+1550690035238,508,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,508,0,384
+1550690035746,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,131,0,0
+1550690036009,839,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,577,0,453
+1550690036009,577,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,577,0,453
+1550690036586,262,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,130,0,0
+1550690036849,771,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,516,0,391
+1550690036849,516,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,516,0,391
+1550690037366,254,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690037621,771,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,517,0,392
+1550690037621,517,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,517,0,392
+1550690038139,253,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690038393,766,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,514,0,389
+1550690038393,514,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,514,0,389
+1550690038907,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690039160,806,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,512,0,388
+1550690039160,512,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,512,0,388
+1550690039672,294,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690039967,788,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,395
+1550690039967,520,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,395
+1550690040487,268,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550690040757,787,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,519,0,394
+1550690040757,519,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,519,0,394
+1550690041276,268,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,134,0,0
+1550690041545,774,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,520,0,395
+1550690041545,520,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,520,0,395
+1550690042065,254,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,128,0,0
+1550690042320,767,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,515,0,390
+1550690042320,515,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,515,0,390
+1550690042835,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,127,0,0
+1550690043087,781,HTTP Request,200,OK,Thread Group 1-1,text,false,Response was null,24053,253,1,1,https://oxfamapps.org/festivals/,527,0,403
+1550690043087,527,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,500,126,1,1,https://oxfamapps.org/festivals,527,0,403
+1550690043616,252,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,23553,127,1,1,https://oxfamapps.org/festivals/,126,0,0

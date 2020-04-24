@@ -1,0 +1,187 @@
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_basic1.jmx -l OxfamFestival_basic1.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_basic1.jmx
+Starting the test @ Wed Feb 20 19:10:05 GMT 2019 (1550689805435)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +    204 in 00:00:24 =    8.4/s Avg:   785 Min:   756 Max:  1539 Err:     0 (0.00%) Active: 8 Started: 25 Finished: 17
+summary +    300 in 00:00:30 =   10.0/s Avg:   770 Min:   756 Max:   866 Err:     0 (0.00%) Active: 8 Started: 55 Finished: 47
+summary =    504 in 00:00:54 =    9.3/s Avg:   776 Min:   756 Max:  1539 Err:     0 (0.00%)
+summary +    299 in 00:00:30 =   10.0/s Avg:   770 Min:   755 Max:   879 Err:     0 (0.00%) Active: 8 Started: 85 Finished: 77
+summary =    803 in 00:01:24 =    9.5/s Avg:   774 Min:   755 Max:  1539 Err:     0 (0.00%)
+summary +    197 in 00:00:23 =    8.7/s Avg:   777 Min:   754 Max:  1243 Err:     0 (0.00%) Active: 0 Started: 100 Finished: 100
+summary =   1000 in 00:01:47 =    9.4/s Avg:   774 Min:   754 Max:  1539 Err:     0 (0.00%)
+Tidying up ...    @ Wed Feb 20 19:11:52 GMT 2019 (1550689912728)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_assertian.jmx -l OxfamFestival_assertian.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_assertian.jmx
+Starting the test @ Wed Feb 20 19:12:43 GMT 2019 (1550689963004)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +     20 in 00:00:17 =    1.2/s Avg:   824 Min:   768 Max:  1573 Err:    20 (100.00%) Active: 1 Started: 1 Finished: 0
+summary +     38 in 00:00:30 =    1.3/s Avg:   798 Min:   762 Max:  1177 Err:    38 (100.00%) Active: 1 Started: 1 Finished: 0
+summary =     58 in 00:00:47 =    1.2/s Avg:   807 Min:   762 Max:  1573 Err:    58 (100.00%)
+summary +     38 in 00:00:30 =    1.3/s Avg:   794 Min:   762 Max:   941 Err:    38 (100.00%) Active: 1 Started: 1 Finished: 0
+summary =     96 in 00:01:17 =    1.2/s Avg:   802 Min:   762 Max:  1573 Err:    96 (100.00%)
+summary +      4 in 00:00:03 =    1.3/s Avg:   777 Min:   767 Max:   787 Err:     4 (100.00%) Active: 0 Started: 1 Finished: 1
+summary =    100 in 00:01:20 =    1.2/s Avg:   801 Min:   762 Max:  1573 Err:   100 (100.00%)
+Tidying up ...    @ Wed Feb 20 19:14:03 GMT 2019 (1550690043872)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_Loop_Controller.jmx -l OxfamFestival_Loop_Controller.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_Loop_Controller.jmx
+Starting the test @ Wed Feb 20 19:14:31 GMT 2019 (1550690071624)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:02 =    0.6/s Avg:  1552 Min:  1552 Max:  1552 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +     68 in 00:00:27 =    2.5/s Avg:   392 Min:   255 Max:  1817 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     69 in 00:00:28 =    2.4/s Avg:   408 Min:   255 Max:  1817 Err:     0 (0.00%)
+summary +     31 in 00:00:11 =    2.7/s Avg:   367 Min:   255 Max:   782 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+summary =    100 in 00:00:40 =    2.5/s Avg:   396 Min:   255 Max:  1817 Err:     0 (0.00%)
+Tidying up ...    @ Wed Feb 20 19:15:11 GMT 2019 (1550690111937)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_PostProcessor.jmx -l OxfamFestival_PostProcessor.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_PostProcessor.jmx
+Starting the test @ Wed Feb 20 19:16:26 GMT 2019 (1550690186679)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary =     10 in 00:00:02 =    6.7/s Avg:   948 Min:   512 Max:  1295 Err:    10 (100.00%)
+Tidying up ...    @ Wed Feb 20 19:16:28 GMT 2019 (1550690188636)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_PostProcessor_OK.jmx -l OxfamFestival_PostProcessor_OK.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_PostProcessor_OK.jmx
+Starting the test @ Wed Feb 20 19:16:52 GMT 2019 (1550690212968)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +     71 in 00:00:07 =   10.0/s Avg:   838 Min:   755 Max:  1689 Err:     0 (0.00%) Active: 10 Started: 10 Finished: 0
+summary +     29 in 00:00:02 =   17.1/s Avg:   786 Min:   757 Max:   851 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+summary =    100 in 00:00:09 =   11.3/s Avg:   823 Min:   755 Max:  1689 Err:     0 (0.00%)
+Tidying up ...    @ Wed Feb 20 19:17:02 GMT 2019 (1550690222218)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_timer_constant1.jmx -l OxfamFestival_timer_constant1.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_timer_constant1.jmx
+Starting the test @ Wed Feb 20 19:17:36 GMT 2019 (1550690256943)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      4 in 00:00:24 =    0.2/s Avg:  1010 Min:   796 Max:  1573 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +      5 in 00:00:29 =    0.2/s Avg:   791 Min:   774 Max:   822 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =      9 in 00:00:53 =    0.2/s Avg:   888 Min:   774 Max:  1573 Err:     0 (0.00%)
+summary +      6 in 00:00:35 =    0.2/s Avg:   793 Min:   786 Max:   811 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     15 in 00:01:28 =    0.2/s Avg:   850 Min:   774 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   807 Min:   785 Max:   870 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     20 in 00:01:57 =    0.2/s Avg:   839 Min:   774 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   796 Min:   775 Max:   850 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     25 in 00:02:26 =    0.2/s Avg:   831 Min:   774 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   791 Min:   777 Max:   841 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     30 in 00:02:55 =    0.2/s Avg:   824 Min:   774 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   783 Min:   779 Max:   789 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     35 in 00:03:24 =    0.2/s Avg:   818 Min:   774 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   786 Min:   769 Max:   817 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     40 in 00:03:53 =    0.2/s Avg:   814 Min:   769 Max:  1573 Err:     0 (0.00%)
+summary +      6 in 00:00:35 =    0.2/s Avg:   854 Min:   770 Max:  1214 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     46 in 00:04:28 =    0.2/s Avg:   819 Min:   769 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   779 Min:   772 Max:   791 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     51 in 00:04:57 =    0.2/s Avg:   815 Min:   769 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   775 Min:   772 Max:   780 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     56 in 00:05:26 =    0.2/s Avg:   812 Min:   769 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   779 Min:   768 Max:   788 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     61 in 00:05:55 =    0.2/s Avg:   809 Min:   768 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   783 Min:   776 Max:   790 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     66 in 00:06:24 =    0.2/s Avg:   807 Min:   768 Max:  1573 Err:     0 (0.00%)
+summary +      6 in 00:00:35 =    0.2/s Avg:   786 Min:   765 Max:   830 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     72 in 00:06:58 =    0.2/s Avg:   805 Min:   765 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   821 Min:   773 Max:   979 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     77 in 00:07:27 =    0.2/s Avg:   806 Min:   765 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   779 Min:   768 Max:   787 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     82 in 00:07:56 =    0.2/s Avg:   805 Min:   765 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   801 Min:   778 Max:   835 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     87 in 00:08:25 =    0.2/s Avg:   804 Min:   765 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:30 =    0.2/s Avg:   930 Min:   779 Max:  1463 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     92 in 00:08:55 =    0.2/s Avg:   811 Min:   765 Max:  1573 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   781 Min:   770 Max:   786 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     97 in 00:09:24 =    0.2/s Avg:   810 Min:   765 Max:  1573 Err:     0 (0.00%)
+summary +      3 in 00:00:17 =    0.2/s Avg:   807 Min:   783 Max:   851 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+summary =    100 in 00:09:41 =    0.2/s Avg:   810 Min:   765 Max:  1573 Err:     0 (0.00%)
+Tidying up ...    @ Wed Feb 20 19:27:18 GMT 2019 (1550690838757)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$ /cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_timer_gaussian1.jmx -l OxfamFestival_timer_gaussian1.csv
+Creating summariser <summary>
+Created the tree successfully using OxfamFestival_timer_gaussian1.jmx
+Starting the test @ Wed Feb 20 19:28:25 GMT 2019 (1550690905239)
+Waiting for possible Shutdown/StopTestNow/Heapdump message on port 4445
+summary +      1 in 00:00:07 =    0.1/s Avg:  1566 Min:  1566 Max:  1566 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary +      5 in 00:00:29 =    0.2/s Avg:   783 Min:   770 Max:   797 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =      6 in 00:00:36 =    0.2/s Avg:   914 Min:   770 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   786 Min:   778 Max:   816 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     11 in 00:01:05 =    0.2/s Avg:   856 Min:   770 Max:  1566 Err:     0 (0.00%)
+summary +      6 in 00:00:35 =    0.2/s Avg:   840 Min:   777 Max:  1060 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     17 in 00:01:40 =    0.2/s Avg:   850 Min:   770 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   791 Min:   778 Max:   809 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     22 in 00:02:09 =    0.2/s Avg:   837 Min:   770 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   775 Min:   765 Max:   786 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     27 in 00:02:38 =    0.2/s Avg:   825 Min:   765 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   779 Min:   765 Max:   806 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     32 in 00:03:06 =    0.2/s Avg:   818 Min:   765 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   781 Min:   774 Max:   786 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     37 in 00:03:35 =    0.2/s Avg:   813 Min:   765 Max:  1566 Err:     0 (0.00%)
+summary +      6 in 00:00:35 =    0.2/s Avg:   791 Min:   779 Max:   836 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     43 in 00:04:10 =    0.2/s Avg:   810 Min:   765 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   787 Min:   764 Max:   836 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     48 in 00:04:39 =    0.2/s Avg:   808 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   781 Min:   776 Max:   790 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     53 in 00:05:08 =    0.2/s Avg:   805 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   799 Min:   777 Max:   859 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     58 in 00:05:37 =    0.2/s Avg:   804 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   782 Min:   775 Max:   789 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     63 in 00:06:06 =    0.2/s Avg:   803 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   783 Min:   780 Max:   788 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     68 in 00:06:35 =    0.2/s Avg:   801 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      6 in 00:00:35 =    0.2/s Avg:   783 Min:   772 Max:   798 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     74 in 00:07:10 =    0.2/s Avg:   800 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   778 Min:   764 Max:   786 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     79 in 00:07:38 =    0.2/s Avg:   798 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   792 Min:   775 Max:   814 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     84 in 00:08:07 =    0.2/s Avg:   798 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:30 =    0.2/s Avg:   933 Min:   784 Max:  1334 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     89 in 00:08:37 =    0.2/s Avg:   806 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   798 Min:   774 Max:   873 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     94 in 00:09:06 =    0.2/s Avg:   805 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      5 in 00:00:29 =    0.2/s Avg:   780 Min:   772 Max:   801 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary =     99 in 00:09:35 =    0.2/s Avg:   804 Min:   764 Max:  1566 Err:     0 (0.00%)
+summary +      1 in 00:00:06 =    0.2/s Avg:   971 Min:   971 Max:   971 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+summary =    100 in 00:09:41 =    0.2/s Avg:   806 Min:   764 Max:  1566 Err:     0 (0.00%)
+Tidying up ...    @ Wed Feb 20 19:38:06 GMT 2019 (1550691486639)
+... end of run
+
+PC-TALIBR2+cromox@PC-TALIBR2 /cygdrive/f/tools/Csharp_projects_repos/JMeter/OxfamFestivals
+$
+

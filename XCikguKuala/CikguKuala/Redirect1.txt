@@ -1,0 +1,10 @@
+Successfull - go to SAP dropdown list
+Successfull - picked SAP ABAP
+Title 1 = Demo Guru99 Page
+URL 1 = http://demo.guru99.com/test/guru99home/
+URL 2 = http://demo.guru99.com/test
+URL test1 = http://demo.guru99.com/ui
+URL test2 = http://demo.guru99.com/test/guru99home/
+URL test3 = http://demo.guru99.com/test/guru99home/ui
+URL test4 = http://demo.guru99.com/test/guru99home/ui/ui
+Done

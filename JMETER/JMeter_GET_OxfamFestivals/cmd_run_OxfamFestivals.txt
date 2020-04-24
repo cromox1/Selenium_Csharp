@@ -1,0 +1,7 @@
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_basic1.jmx -l OxfamFestival_basic1.csv
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_assertian.jmx -l OxfamFestival_assertian.csv
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_Loop_Controller.jmx -l OxfamFestival_Loop_Controller.csv
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_PostProcessor.jmx -l OxfamFestival_PostProcessor.csv
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_PostProcessor_OK.jmx -l OxfamFestival_PostProcessor_OK.csv
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_timer_constant1.jmx -l OxfamFestival_timer_constant1.csv
+/cygdrive/f/tools/apache-jmeter-5.0/bin/jmeter.bat -n -t OxfamFestival_timer_gaussian1.jmx -l OxfamFestival_timer_gaussian1.csv

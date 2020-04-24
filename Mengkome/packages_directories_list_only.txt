@@ -1,0 +1,9 @@
+total 24
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 .
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:13 ..
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 Dapper.1.50.5
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 NUnit.3.11.0
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 NUnit3TestAdapter.3.12.0
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 Selenium.Chrome.WebDriver.2.45
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 Selenium.Support.3.141.0
+drwx------+ 1 PC-TALIBR2+cromox PC-TALIBR2+None 0 Feb  7 15:11 Selenium.WebDriver.3.141.0
